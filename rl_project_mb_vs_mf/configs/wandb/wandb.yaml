@@ -1,0 +1,10 @@
+project: test
+entity: jingtaoz
+track: False
+group: mpc_experiments
+sync_tensorboard: true
+monitor_gym: true
+save_code: true
+tags:
+  - MountainCarContinuous
+  - MPC

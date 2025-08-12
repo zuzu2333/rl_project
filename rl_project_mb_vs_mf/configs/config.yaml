@@ -1,0 +1,14 @@
+defaults:
+  - env: env
+  - ppo: ppo
+  - wandb: wandb
+  - mpc: mpc
+  - _self_
+
+seed: 0
+total_timesteps: 20000
+n_envs: 4
+device: auto
+save_path: ./runs
+vec_backend: dummy  # subproc/dummy
+log_flush_freq: 200
