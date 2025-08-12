@@ -4,7 +4,6 @@
 To reproduce the results in this repository, please ensure the following:
 
 - **Environment**
-  - [ ] OS and version: e.g. Ubuntu 20.04 / Windows 11 / macOS 13
   - [ ] Python version: `3.11` (tested with Python Vision)
   - [ ] Virtual environment: [uv](https://github.com/astral-sh/uv)
 
